@@ -1,6 +1,6 @@
 # bootstrap-web
 
 
-   <img src="img/ss.png">
+  
 
-   <a href="https://beautiful-gumdrop-c34238.netlify.app/"> </a>
+   <a href="https://beautiful-gumdrop-c34238.netlify.app/">  <img src="img/ss.png"> </a>
